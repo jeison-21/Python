@@ -1,3 +1,21 @@
+if 2 < 5 :
+    print('3 es menor que 5')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # if 2 < 5:
     # print('2 es menor que 5')
 
@@ -32,16 +50,16 @@
 # if 3 <= 3:
     # print('3 es menor o igual a 3')
 
-if 2 > 5:
-    print('dos es menor a 5 en if')
-elif 2 > 5:
-    print('2 menor a 5 en elif')
-elif 2 < 5:
-    print('2 menor a 5 en segundo elif')
-else:
-    print('yo me imprimo solo si todo lo anterior evalua en falso')
+#if 2 > 5:
+ #   print('dos es menor a 5 en if')
+#elif 2 > 5:
+#    print('2 menor a 5 en elif')
+#elif 2 < 5:
+#    print('2 menor a 5 en segundo elif')
+#else:
+#    print('yo me imprimo solo si todo lo anterior evalua en falso')
 
-
+'''
 if 2 > 5:
     print('dos es menor a 5 en if')
 else:
@@ -62,3 +80,4 @@ if 1 < 0 or 1 > 0: # si una condición evalua en true se ejecuta la instrucción
 
 if 1 < 0 or 1 < 0: # si ambas condiciones son falsas entonces no se ejecuta
     print('si ambas condiciones evaluan en true no se ejecuta esto')
+'''
